@@ -6,7 +6,7 @@
 
 branch를 main으로 고정하고 유저 정보를 입력한 후 온라인 repo와 연결했다.
 
-
+ 
 
 ## .gitignore에 원하는 설정 추가 후 git push
 
@@ -16,6 +16,7 @@ branch를 main으로 고정하고 유저 정보를 입력한 후 온라인 repo�
 
 ![2-2](https://github.com/user-attachments/assets/b15b986d-647c-4e86-96ec-63fb5d849dc9)
 
+ 
 
 ## pip upgrade 후 test_action.py생성, 동작 확인
 
@@ -29,10 +30,13 @@ branch를 main으로 고정하고 유저 정보를 입력한 후 온라인 repo�
 
 ![3-3](https://github.com/user-attachments/assets/396d2429-bbe6-4f8e-8fe8-8471608a29f5)
 
+ 
 
 ## requirements.txt 생성
 
 ![4-1](https://github.com/user-attachments/assets/8915c3fe-3292-47b8-b685-0c4b795f35d2)
+
+ 
 
 ## create python-package.yml 액션 후 git pull
 
@@ -42,6 +46,8 @@ branch를 main으로 고정하고 유저 정보를 입력한 후 온라인 repo�
 
 ![5-2](https://github.com/user-attachments/assets/b1998033-38db-4efd-83d4-f067a867db65)
 
+ 
+
 ## update_time.py 생성
 
 ![6](https://github.com/user-attachments/assets/9289e3b2-c141-4165-85fa-739f92e49652)
@@ -49,6 +55,8 @@ branch를 main으로 고정하고 유저 정보를 입력한 후 온라인 repo�
 ![6-1](https://github.com/user-attachments/assets/09ad8694-04bb-4bb8-be35-64a660461570)
 
 ![6-2](https://github.com/user-attachments/assets/274ad3a7-e89f-48e3-952d-3b933fee64cd)
+
+ 
 
 ## update_test_html.yml 생성
 
