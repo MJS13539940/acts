@@ -69,3 +69,7 @@ branch를 main으로 고정하고 유저 정보를 입력한 후 온라인 repo�
 ![7-2](https://github.com/user-attachments/assets/fbdcaa64-fa31-4654-b220-ef2c17ac62d8)
 
 
+
+### 비고: 코드를 복붙했더니 repo 참여자에 강사님이 추가됨. update_test_html.yml 때문.
+
+
